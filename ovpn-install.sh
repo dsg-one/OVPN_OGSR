@@ -1300,6 +1300,7 @@ function removeOpenVPN() {
 }
 
 function manageMenu() {
+        echo "https://t.me/OGSRCHAT"
 	echo "It looks like OpenVPN is already installed."
 	echo ""
 	echo "What do you want to do?"
